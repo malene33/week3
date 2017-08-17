@@ -1,0 +1,24 @@
+li{
+
+display: inline;
+text-align: right;
+
+}
+ li:hover {
+  transition: all 0.3s ease-in-easeout;
+}
+
+.buttons{
+  width: 100%;
+  position: relative;
+
+}
+
+.buttons p{
+  background: lightgrey;
+  border: 1px solid black;
+  width:50%;
+  text-align: center;
+
+
+}
